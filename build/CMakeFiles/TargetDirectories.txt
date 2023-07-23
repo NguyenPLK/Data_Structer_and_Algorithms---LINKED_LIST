@@ -1,0 +1,3 @@
+/home/nguyenplk1601/Documents/vsCode_Project/module_03/Linked_list/build/CMakeFiles/run.dir
+/home/nguyenplk1601/Documents/vsCode_Project/module_03/Linked_list/build/CMakeFiles/edit_cache.dir
+/home/nguyenplk1601/Documents/vsCode_Project/module_03/Linked_list/build/CMakeFiles/rebuild_cache.dir
