@@ -33,7 +33,6 @@ void Linked_list::Print_list(const std::string &ID_number)
     }
     else
     {
-
         std::cout << "Student name: " << search_ptr->m_student.get_first_name() << " " << search_ptr->m_student.get_last_name() << std::endl;
         std::cout << "Student ID number: " << search_ptr->m_student.get_ID() << std::endl;
         std::cout << "Student room number: " << search_ptr->m_student.get_room_number() << std::endl;
